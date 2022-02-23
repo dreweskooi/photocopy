@@ -1,0 +1,6 @@
+*.pyc
+\build
+\dist
+*.json
+*.whl
+*.spec

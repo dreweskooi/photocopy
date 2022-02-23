@@ -1,0 +1,12 @@
+{
+    "DEBUG": true,
+    "SOURCE_FOLDER": "D:\\heic_photos",
+    "SSOURCE_FOLDER": "H:\\Mac\\Import2",
+    "NAME_PREFIX": "IMG",
+    "DESTINATION_FOLDER": "D:\\PHOTOS_OUT",
+    "FFOLDER_STRUCTURE": "YYYY\\MONTH",
+    "FFFOLDER_STRUCTURE": "MONTHYYYY",
+    "FOLDER_STRUCTURE": "MMMONTHYYYY",
+    "OVERWRITE_EXISTING_FILE": false,
+    "DELETE": false
+}
